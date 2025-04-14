@@ -2,7 +2,7 @@
 
 **A tool to exploit Local File Inclusion (LFI) vulnerabilities for Remote Code Execution (RCE)**  
 *Crafted by 3lacker*
-![Alt text]( "a title")
+![Alt text](/mod_screen.png "a title")
 ---
 
 ##  What is LFI_Racer?
